@@ -4,7 +4,7 @@
   ## 👀 About Me
   #### :raising_hand: 백엔드 공부중인 초보개발자 홍대의 입니다!<br/>
   #### :mortar_board: UNIST 컴퓨터공학과 주전공 / 산업공학과 부전공 (2020.03 ~ 2026.02)
-  #### 🔥 **`백엔드 개발자`**, `클라우드 엔지니어`, `AI/ML 사이언티스트`<br/>
+  #### 🔥 <u>`백엔드 개발자`</u>, `클라우드 엔지니어`, `AI/ML 사이언티스트`<br/>
   <br/>
   <br/>
   
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/DBeaver-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white"/>
 </div>
 
 #### Collaboration
