@@ -2,14 +2,14 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: 백엔드 공부중인 초보개발자 홍대의 입니다!<br/>
-  #### :mortar_board: UNIST 컴퓨터공학과 주전공 / 산업공학과 부전공 (2020.03 ~ 2026.02)
+  #### :raising_hand: 백엔드 공부중인 개발자 홍대의 입니다!<br/>
+  #### :mortar_board: UNIST 컴퓨터공학과 (2020.03 ~ 2026.07)
   #### 🔥 <u>`백엔드 개발자`</u>, `클라우드 엔지니어`, `AI/ML 사이언티스트`<br/>
   <br/>
   <br/>
   
   ### 📝 개인블로그 : [https://velog.io/@hongday/posts](https://velog.io/@hongday/posts)
-  ### 🧑🏻‍💻 포트폴리오 : [백엔드 개발자 준비중인 홍대의 입니다.](https://midnight-catcher-3a7.notion.site/2417d817ab0a806eb730ea024a323abf?source=copy_link)
+  ### 🧑🏻‍💻 포트폴리오 : [백엔드 개발자 홍대의](https://midnight-catcher-3a7.notion.site/2417d817ab0a806eb730ea024a323abf?source=copy_link)
   <br/>
   <br/>
 
